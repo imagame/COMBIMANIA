@@ -1,0 +1,6 @@
+MIDlet-1: COMBIMidlet, , COMBIMidlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: COMBI
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0

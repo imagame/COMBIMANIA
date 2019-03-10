@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.kjava.j2meproject</type>
+    <configuration>
+        <configurations xmlns="http://www.netbeans.org/ns/project-configurations/1">
+            <configuration>Nokia_S40_DP20_SDK_1_1</configuration>
+            <configuration>Nokia_S40_MIDP1</configuration>
+            <configuration>Prototype_4_0_S40_128x128_MIDP_Emulator</configuration>
+            <configuration>Prototype_4_0_S40_128x160_MIDP_Emulator</configuration>
+            <configuration>Prototype_4_0_S60_MIDP_Emulator</configuration>
+            <configuration>S60_2nd_FP2_MIDP_SDK</configuration>
+            <configuration>S60_2nd_FP3_MIDP_SDK</configuration>
+            <configuration>SonyEricsson_K500_Emu</configuration>
+            <configuration>SonyEricsson_K700_Emu</configuration>
+            <configuration>Series_60_MIDP_SDK_for_Symbian_OS_v_1_2_1</configuration>
+        </configurations>
+        <data xmlns="http://www.netbeans.org/ns/j2me-project">
+            <name>COMBI</name>
+            <minimum-ant-version>1.6</minimum-ant-version>
+        </data>
+    </configuration>
+</project>
